@@ -1,0 +1,12 @@
+.lihover {
+    background-color: transparent;
+}
+.lihover:hover {
+    background-color: lightsteelblue;
+}
+
+.Icon--active {
+    text-decoration:line-through;
+    color: rgb(48, 155, 48);
+    /* background-color: #CCC; */
+  }
